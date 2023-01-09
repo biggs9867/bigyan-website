@@ -314,7 +314,7 @@
     {
       margin-bottom: var(--m-1);
       min-width: 1%; /* depends on size of photo & container */
-  height: 470px; /* just to reset to default if needed */
+  height: 570px; /* just to reset to default if needed */
   padding-top: 20%; /* must equal min-width to make a circle */
   float: left;
     }
